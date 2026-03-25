@@ -2,7 +2,6 @@
 
 LumiScan AI é uma ferramenta robusta e focada em privacidade para o reconhecimento automatizado de luminárias e pontos de iluminação. O sistema utiliza uma combinação de OCR (Reconhecimento Óptico de Caracteres) no navegador e Inteligência Artificial local para extrair modelos e potências de imagens, funcionando de forma 100% offline.
 
-![LumiScan Preview](https://picsum.photos/seed/lumiscan/800/400)
 
 ## 🚀 Funcionalidades Principais
 
