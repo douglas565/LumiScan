@@ -80,3 +80,5 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 Desenvolvido para vistorias técnicas e inventários de iluminação pública/privada.
+
+![Texto alternativo](img.png)
